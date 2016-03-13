@@ -1,5 +1,5 @@
 # tools
-Mac 版微信一直不更新，不单不提供新功能，连老 bug 都不修复，故将 web 版微信打包成 Mac OSX Native App 使用。
+Mac 版微信客户端一直不更新，不单不提供新功能，连老 bug 都不修复，故将 web 版微信打包成 Mac OSX Native App 使用。
 
 # 安装
 下载文件，将 wechat-mio.app 移动至 /Applications 目录即可。
